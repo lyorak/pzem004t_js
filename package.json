@@ -1,0 +1,28 @@
+{
+  "name": "pzem004t",
+  "version": "1.0.0",
+  "description": "Library for Peacefair PZEM-004T Energy monitor ",
+  "main": "index.js",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyorak/pzem004t_js.git"
+  },
+  "keywords": [
+    "PZEM",
+    "PZEM004T",
+    "Peacefair"
+  ],
+  "author": "Karoly Molnar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyorak/pzem004t_js/issues"
+  },
+  "homepage": "https://github.com/lyorak/pzem004t_js#readme"
+}
